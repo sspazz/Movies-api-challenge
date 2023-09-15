@@ -27,7 +27,7 @@ namespace ApiApplication.Database
                         Movie = new MovieEntity
                         {
                             Id = 1,
-                            Title = "Inception",
+                            Title = "Inceptiona",
                             ImdbId = "tt1375666",
                             ReleaseDate = new DateTime(2010, 01, 14),
                             Stars = "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe"                            
